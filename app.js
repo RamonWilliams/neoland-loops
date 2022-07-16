@@ -42,21 +42,11 @@ const alumns = [
 
 
 
- 
+/* Usa un bucle forof para recorrer todos los destinos del array. Imprime en un ***console.log*** sus valores.
 
-/*
+Puedes usar este array:*/
+const placesToTravel = ['Japon', 'Venecia', 'Murcia', 'Santander', 'Filipinas', 'Madagascar']
 
-var batman= {
-    nombre: "Bruce",
-    apellidos: "Wayne", 
-    localizacion: "Gotham",
-    profesion: "Multimillonario"
+for(let lugares of placesToTravel){
+    console.log(lugares);
 }
-
-for (llave in batman){
-    console.log("el primeer key de batman es:"+ batman.nombre)
-}
-*/
-
-
-  
