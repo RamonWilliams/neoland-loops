@@ -93,3 +93,4 @@ Happy coding 🌟  & Happy Neolander 💕
 Para poder recorrer un array con objetos deberás, recorrerlo con un array y por cada posición añadir una nueva propiedad a cada objeto.
 
 - Pista: ( para añadir la propiedad dentro del objeto )
+  nombreLista[indice].nombrePropiedad = valor;
